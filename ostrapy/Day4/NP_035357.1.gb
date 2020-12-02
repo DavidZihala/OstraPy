@@ -1,0 +1,245 @@
+LOCUS       NP_035357                233 aa            linear   ROD 27-OCT-2019
+DEFINITION  ras-related protein Rab-20 [Mus musculus].
+ACCESSION   NP_035357 XP_134046
+VERSION     NP_035357.1
+DBSOURCE    REFSEQ: accession NM_011227.2
+KEYWORDS    RefSeq.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (residues 1 to 233)
+  AUTHORS   Schnettger L, Rodgers A, Repnik U, Lai RP, Pei G, Verdoes M,
+            Wilkinson RJ, Young DB and Gutierrez MG.
+  TITLE     A Rab20-Dependent Membrane Trafficking Pathway Controls M.
+            tuberculosis Replication by Regulating Phagosome Spaciousness and
+            Integrity
+  JOURNAL   Cell Host Microbe 21 (5), 619-628 (2017)
+   PUBMED   28494243
+REFERENCE   2  (residues 1 to 233)
+  AUTHORS   Dickinson ME, Flenniken AM, Ji X, Teboul L, Wong MD, White JK,
+            Meehan TF, Weninger WJ, Westerberg H, Adissu H, Baker CN, Bower L,
+            Brown JM, Caddle LB, Chiani F, Clary D, Cleak J, Daly MJ, Denegre
+            JM, Doe B, Dolan ME, Edie SM, Fuchs H, Gailus-Durner V, Galli A,
+            Gambadoro A, Gallegos J, Guo S, Horner NR, Hsu CW, Johnson SJ,
+            Kalaga S, Keith LC, Lanoue L, Lawson TN, Lek M, Mark M, Marschall
+            S, Mason J, McElwee ML, Newbigging S, Nutter LM, Peterson KA,
+            Ramirez-Solis R, Rowland DJ, Ryder E, Samocha KE, Seavitt JR,
+            Selloum M, Szoke-Kovacs Z, Tamura M, Trainor AG, Tudose I, Wakana
+            S, Warren J, Wendling O, West DB, Wong L, Yoshiki A, MacArthur DG,
+            Tocchini-Valentini GP, Gao X, Flicek P, Bradley A, Skarnes WC,
+            Justice MJ, Parkinson HE, Moore M, Wells S, Braun RE, Svenson KL,
+            de Angelis MH, Herault Y, Mohun T, Mallon AM, Henkelman RM, Brown
+            SD, Adams DJ, Lloyd KC, McKerlie C, Beaudet AL, Bucan M and Murray
+            SA.
+  CONSRTM   International Mouse Phenotyping Consortium; Jackson Laboratory;
+            Infrastructure Nationale PHENOMIN, Institut Clinique de la Souris
+            (ICS); Charles River Laboratories; MRC Harwell; Toronto Centre for
+            Phenogenomics; Wellcome Trust Sanger Institute; RIKEN BioResource
+            Center
+  TITLE     High-throughput discovery of novel developmental phenotypes
+  JOURNAL   Nature 537 (7621), 508-514 (2016)
+   PUBMED   27626380
+  REMARK    Erratum:[Nature. 2017 Nov 16;551(7680):398. PMID: 29144450]
+REFERENCE   3  (residues 1 to 233)
+  AUTHORS   Segawa T, Hazeki K, Nigorikawa K, Morioka S, Guo Y, Takasuga S,
+            Asanuma K and Hazeki O.
+  TITLE     Inpp5e increases the Rab5 association and phosphatidylinositol
+            3-phosphate accumulation at the phagosome through an interaction
+            with Rab20
+  JOURNAL   Biochem. J. 464 (3), 365-375 (2014)
+   PUBMED   25269936
+  REMARK    GeneRIF: Inpp5e, through functional interactions with Rab20 on the
+            phagosome, activates Rab5, which, in turn, increases PtdIns3P and
+            delays phagosome acidification.
+REFERENCE   4  (residues 1 to 233)
+  AUTHORS   Koscielny G, Yaikhom G, Iyer V, Meehan TF, Morgan H,
+            Atienza-Herrero J, Blake A, Chen CK, Easty R, Di Fenza A, Fiegel T,
+            Grifiths M, Horne A, Karp NA, Kurbatova N, Mason JC, Matthews P,
+            Oakley DJ, Qazi A, Regnart J, Retha A, Santos LA, Sneddon DJ,
+            Warren J, Westerberg H, Wilson RJ, Melvin DG, Smedley D, Brown SD,
+            Flicek P, Skarnes WC, Mallon AM and Parkinson H.
+  TITLE     The International Mouse Phenotyping Consortium Web Portal, a
+            unified point of access for knockout mice and related phenotyping
+            data
+  JOURNAL   Nucleic Acids Res. 42 (Database issue), D802-D809 (2014)
+   PUBMED   24194600
+REFERENCE   5  (residues 1 to 233)
+  AUTHORS   Liang Y, Lin S, Zou L, Zhou H, Zhang J, Su B and Wan Y.
+  TITLE     Expression profiling of Rab GTPases reveals the involvement of
+            Rab20 and Rab32 in acute brain inflammation in mice
+  JOURNAL   Neurosci. Lett. 527 (2), 110-114 (2012)
+   PUBMED   22960262
+  REMARK    GeneRIF: Rabs may participate in inflammatory response in microglia
+            during brain inflammation.
+REFERENCE   6  (residues 1 to 233)
+  AUTHORS   Kuroda TS, Fukuda M, Ariga H and Mikoshiba K.
+  TITLE     The Slp homology domain of synaptotagmin-like proteins 1-4 and
+            Slac2 functions as a novel Rab27A binding domain
+  JOURNAL   J. Biol. Chem. 277 (11), 9212-9218 (2002)
+   PUBMED   11773082
+REFERENCE   7  (residues 1 to 233)
+  AUTHORS   McMurtrie EB, Barbosa MDFS, Zerial M and Kingsmore SF.
+  TITLE     Genetic mapping of Rab20 on mouse chromosome 8
+  JOURNAL   Mamm. Genome 8 (4), 291-292 (1997)
+   PUBMED   9096117
+REFERENCE   8  (residues 1 to 233)
+  AUTHORS   Murphy C and Zerial M.
+  TITLE     Expression of Rab proteins during mouse embryonic development
+  JOURNAL   Meth. Enzymol. 257, 324-332 (1995)
+   PUBMED   8583936
+REFERENCE   9  (residues 1 to 233)
+  AUTHORS   Lutcke A, Parton RG, Murphy C, Olkkonen VM, Dupree P, Valencia A,
+            Simons K and Zerial M.
+  TITLE     Cloning and subcellular localization of novel rab proteins reveals
+            polarized and cell type-specific expression
+  JOURNAL   J. Cell. Sci. 107 (Pt 12), 3437-3448 (1994)
+   PUBMED   7706395
+REFERENCE   10 (residues 1 to 233)
+  AUTHORS   Chavrier P, Simons K and Zerial M.
+  TITLE     The complexity of the Rab and Rho GTP-binding protein subfamilies
+            revealed by a PCR cloning approach
+  JOURNAL   Gene 112 (2), 261-264 (1992)
+   PUBMED   1555775
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AC124475.3.
+            On Mar 23, 2004 this sequence version replaced XP_134046.1.
+            
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR7345562.1795193.1,
+                                           SRR5189685.70139.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN00849374, SAMN00849375
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..233
+                     /organism="Mus musculus"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="8"
+                     /map="8 5.73 cM"
+     Protein         1..233
+                     /product="ras-related protein Rab-20"
+                     /calculated_mol_wt=25858
+     Region          7..232
+                     /region_name="Rab20"
+                     /note="Rab GTPase family 20 (Rab20); cd04126"
+                     /db_xref="CDD:133326"
+     Region          7..196
+                     /region_name="Ras"
+                     /note="Ras family; pfam00071"
+                     /db_xref="CDD:278499"
+     Site            12..19
+                     /site_type="other"
+                     /note="G1 box"
+                     /db_xref="CDD:133326"
+     Site            order(14..20,30,35..36,58,113..114,116,182..184)
+                     /site_type="other"
+                     /note="GTP/Mg2+ binding site [chemical binding]"
+                     /db_xref="CDD:133326"
+     Site            order(20..30,34..35)
+                     /site_type="other"
+                     /note="Rab subfamily motif 2 (RabSF2)"
+                     /db_xref="CDD:133326"
+     Site            order(30,34..42)
+                     /site_type="other"
+                     /note="Switch I region"
+                     /db_xref="CDD:133326"
+     Region          33..41
+                     /region_name="Effector region. {ECO:0000250}"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P35295.2)"
+     Site            order(34,38..45,48,50)
+                     /site_type="other"
+                     /note="putative GEF interaction site [polypeptide
+                     binding]"
+                     /db_xref="CDD:133326"
+     Site            36
+                     /site_type="other"
+                     /note="G2 box"
+                     /db_xref="CDD:133326"
+     Site            order(37,39..41,52,54,61..62,65,69,74)
+                     /site_type="other"
+                     /note="putative effector interaction site"
+                     /db_xref="CDD:133326"
+     Site            order(37..38,40,54..55,62,64,66..68)
+                     /site_type="other"
+                     /note="putative GDI interaction site [polypeptide
+                     binding]"
+                     /db_xref="CDD:133326"
+     Site            37..41
+                     /site_type="other"
+                     /note="Rab family motif 1 (RabF1)"
+                     /db_xref="CDD:133326"
+     Site            50..54
+                     /site_type="other"
+                     /note="Rab family motif 2 (RabF2)"
+                     /db_xref="CDD:133326"
+     Site            55..58
+                     /site_type="other"
+                     /note="G3 box"
+                     /db_xref="CDD:133326"
+     Site            order(58,60..70)
+                     /site_type="other"
+                     /note="Switch II region"
+                     /db_xref="CDD:133326"
+     Site            61..66
+                     /site_type="other"
+                     /note="Rab family motif 3 (RabF3)"
+                     /db_xref="CDD:133326"
+     Site            69..73
+                     /site_type="other"
+                     /note="Rab family motif 4 (RabF4)"
+                     /db_xref="CDD:133326"
+     Site            78..83
+                     /site_type="other"
+                     /note="Rab family motif 5 (RabF5)"
+                     /db_xref="CDD:133326"
+     Site            106..110
+                     /site_type="other"
+                     /note="Rab subfamily motif 3 (RabSF3)"
+                     /db_xref="CDD:133326"
+     Site            113..116
+                     /site_type="other"
+                     /note="G4 box"
+                     /db_xref="CDD:133326"
+     Site            182..184
+                     /site_type="other"
+                     /note="G5 box"
+                     /db_xref="CDD:133326"
+     Site            198..200
+                     /site_type="other"
+                     /note="Rab subfamily motif 4 (RabSF4)"
+                     /db_xref="CDD:133326"
+     Site            231..232
+                     /site_type="other"
+                     /note="putative lipid modification site [posttranslational
+                     modification]"
+                     /db_xref="CDD:133326"
+     CDS             1..233
+                     /gene="Rab20"
+                     /gene_synonym="AA536966; D8Ertd350e"
+                     /coded_by="NM_011227.2:142..843"
+                     /db_xref="CCDS:CCDS22095.1"
+                     /db_xref="GeneID:19332"
+                     /db_xref="MGI:MGI:102789"
+ORIGIN      
+        1 mrkpdgkivl lgdmnvgkts llqrymerrf pdtvstvgga fylkqwrsfn isiwdtagre
+       61 qfhglgslyc rgaaaiilty dvnhpqslfe ledrflglte tanndclfai vgnkvdltse
+      121 rdteggekeg pasgkvgscv stkvpkqvqp edavalykki lkykmldere mpaaeqmcfe
+      181 tsaktgynvd llfetlfdlv vpmimrqrae esdqtvdias cktpkqtrsg cca
+//
+

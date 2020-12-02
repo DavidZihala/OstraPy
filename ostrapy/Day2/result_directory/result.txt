@@ -1,0 +1,13 @@
+Functions_SOLUTIONS.ipynb
+Regular_expression_EXERCISES.ipynb
+Import,std_library_EXERCISES.ipynb
+Functions_EXERCISES.ipynb
+Working_with_files,string_formating_SOLUTIONS.ipynb
+Import,std_library_SOLUTIONS.ipynb
+.ipynb_checkpoints
+Working_with_files,string_formating_EXERCISES.ipynb
+Regular_expression_SOLUTIONS.ipynb
+Functions_NOTEBOOK.ipynb
+Working_with_files,string_formating_NOTEBOOK.ipynb
+Regular_expression_NOTEBOOK.ipynb
+Import,std_library_NOTEBOOK.ipynb
