@@ -20,7 +20,7 @@ outfile = sys.argv[1]
 
 text = ""
 
-MAX_COUNT = 10
+MAX_COUNT = 100
 TERM = name
 
 Entrez.email = 'zihaladavid@gmail.com'  # put your mail here
