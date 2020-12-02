@@ -24,11 +24,11 @@ Welcome to Python programming workshop for bioinformatics Ostrapy. The main goal
 ## Preliminary Program
 
 ### Day 1 (4 pm - 8pm):
-Introduction
-Basic data types
-Control statements
-Working with files
-Functions
+Introduction \
+Basic data types \
+Control statements \
+Working with files \
+Functions 
 
 ### Day 2 (4 pm - 8 pm):
 Classes
