@@ -31,20 +31,23 @@ Working with files \
 Functions 
 
 ### Day 2 (4 pm - 8 pm):
-Classes
-Modules
-Packages
+Classes \
+Modules \
+Packages \
 
 ### Day 3 (4 pm - 8 pm):
-Regular expressions, Biopython – SeqIO
+Regular expressions \
+Biopython – SeqIO
 
 ### Day 4 (9 am - 3 pm):
-Everything from previous days
-Biopython - AlignIO, Blast, Entrez
+Everything from previous days \
+Biopython - AlignIO \
+Biopython - Blast \
+Biopython - Entrez \
 
 ### Day 5 (9 am - 3 pm):
-Everything from previous days
-pandas, matplotlib
+Everything from previous days \
+pandas, matplotlib 
 
 ## literature :books:
 
