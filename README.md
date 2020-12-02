@@ -23,49 +23,28 @@ Welcome to Python programming workshop for bioinformatics Ostrapy. The main goal
 
 ## Preliminary Program
 
-### Day 1:
-9:00 – 9:30	Introduction\
-9:30 – 11:00	Basic data types\
-11:00 – 11:15  Coffee break  :coffee:\
-11:15 – 12:30 Control statements(1), Exception handling\
-12:30 – 13:30 Lunch break :fork_and_knife:\
-13:30 – 15:00 Control statements(2), working with files\
-15:00 – 15:15 Coffee break :coffee:\
-15:15 – 17:00 Functions
+### Day 1 (4 pm - 8pm):
+Introduction
+Basic data types
+Control statements
+Working with files
+Functions
 
-### Day 2:
-9:00 – 11:00 Working with files, string formatting\
-11:00 – 11:15  Coffee break :coffee:\
-11:15 – 12:30 Classes\
-12:30 – 13:30 Lunch break :fork_and_knife:\
-13:30 – 15:00 Modules, Packages, Introduction to standard library\
-15:00 – 15:15 Coffee break :coffee:\
-15:15 – 17:00 Generators, Iterators
+### Day 2 (4 pm - 8 pm):
+Classes
+Modules
+Packages
 
-### Day 3:
-9:00 – 11:00 Regular expressions\
-11:00 – 11:15  Coffee break :coffee:\
-11:15 – 12:30 Classes(2)\
-12:30 – 13:30 Lunch break :fork_and_knife:\
-13:30 – 15:00 Biopython – SeqIO
+### Day 3 (4 pm - 8 pm):
+Regular expressions, Biopython – SeqIO
 
-### Day 4:
-9:00 – 11:00 Biopython - AlignIO\
-11:00 – 11:15  Coffee break :coffee:\
-11:15 – 12:30 Biopython – Blast.NCBIWWW\
-12:30 – 13:30 Lunch break :fork_and_knife:\
-13:30 – 15:00 Biopython – Blast.NCBIXML\
-15:00 – 15:15 Coffee break :coffee:\
-15:15 – 17:00 Biopython - Entrez
+### Day 4 (9 am - 3 pm):
+Everything from previous days
+Biopython - AlignIO, Blast, Entrez
 
-### Day 5:
-9:00 – 11:00 Introduction to scientific Python\
-11:00 – 11:15  Coffee break :coffee:\
-11:15 – 12:30 pandas\
-12:30 – 13:30 Lunch break :fork_and_knife:\
-13:30 – 15:00 Matplotlib\
-15:00 – 15:15 Coffee break :coffee:\
-15:15 – 17:00 More pandas and Matplolib
+### Day 5 (9 am - 3 pm):
+Everything from previous days
+pandas, matplotlib
 
 ## literature :books:
 
