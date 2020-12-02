@@ -31,7 +31,7 @@ Functions
 ### Day 2 (4 pm - 8 pm):
 Classes \
 Modules \
-Packages \
+Packages
 
 ### Day 3 (4 pm - 8 pm):
 Regular expressions \
@@ -41,7 +41,7 @@ Biopython – SeqIO
 Everything from previous days \
 Biopython - AlignIO \
 Biopython - Blast \
-Biopython - Entrez \
+Biopython - Entrez
 
 ### Day 5 (9 am - 3 pm):
 Everything from previous days \
