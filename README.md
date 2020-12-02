@@ -17,8 +17,6 @@ Welcome to Python programming workshop for bioinformatics Ostrapy. The main goal
  :e-mail: zihaladavid@gmail.com
 
 
-
-**University of Ostrava, SOVA**
 <img src="support.png" alt="drawing" width="800"/>
 
 ## Preliminary Program
