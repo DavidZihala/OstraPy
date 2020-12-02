@@ -8,7 +8,7 @@ Welcome to Python programming workshop for bioinformatics Ostrapy. The main goal
 
   :date: 09-13 December 2020
 
- :venue: online
+ :school: online
 
  :moneybag: Free
 
